@@ -1,2 +1,7 @@
 # hello-world
-My first repository
+
+Hi DC ICers!
+
+Let's see if we can collaborate on IC SQL Queries.
+
+Kenli
